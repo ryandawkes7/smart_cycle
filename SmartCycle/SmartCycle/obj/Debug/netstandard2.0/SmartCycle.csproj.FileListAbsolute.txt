@@ -1,0 +1,14 @@
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\bin\Debug\netstandard2.0\SmartCycle.deps.json
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\bin\Debug\netstandard2.0\SmartCycle.dll
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\bin\Debug\netstandard2.0\ref\SmartCycle.dll
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\bin\Debug\netstandard2.0\SmartCycle.pdb
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.csprojAssemblyReference.cache
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.AssemblyInfoInputs.cache
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.AssemblyInfo.cs
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.csproj.CoreCompileInputs.cache
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.dll
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\ref\SmartCycle.dll
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.pdb

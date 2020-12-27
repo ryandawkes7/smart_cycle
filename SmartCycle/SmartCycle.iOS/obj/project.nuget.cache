@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pcOBUKO1YfLklfRwPRK1hvhbVpFxT0pqDOa777RycIoh47q3Z1hCukTdL7camqm+bv8Hyv4Lgw8oPc/nJx/wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryand\\OneDrive\\Documents\\SmartCycle\\SmartCycle\\SmartCycle\\SmartCycle.iOS\\SmartCycle.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
