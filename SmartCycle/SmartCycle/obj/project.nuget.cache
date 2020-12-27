@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fiGxe9aroypN8qqJNBSeetW0f6SxDtCJGijDn8833yaTdiyG5nU0JDBg1v54VRPCWhC9PmxnREA/0O8FH4LLDQ==",
+  "dgSpecHash": "0k36bQZCEA55rkRroTSXB1TfRqpbAc0dIvGuGgBuypwi01PKI4XxpbAkCpiwwSmA52+COu7+q9qsKZhjL5wfOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ryand\\OneDrive\\Documents\\SmartCycle\\SmartCycle\\SmartCycle\\SmartCycle\\SmartCycle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ryand\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",

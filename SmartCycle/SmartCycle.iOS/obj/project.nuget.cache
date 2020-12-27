@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nAkLiaeNmnbYuBF5P0tU8GW8d8dVq1zzbUl2knC8UvSOm8NAKx5IB+UScW32GX15H/1fnHcPN0v4KcnRdGhoiQ==",
+  "dgSpecHash": "ts0qX8SUbiY1UrmJoNsjBOa1xQnFXHVOvoKCNg5fP/kJfqE2FDExsZdf8pRNXjQZ8MsX1uzP4UAnlUbtwo8iOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ryand\\OneDrive\\Documents\\SmartCycle\\SmartCycle\\SmartCycle\\SmartCycle.iOS\\SmartCycle.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ryand\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\ryand\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
