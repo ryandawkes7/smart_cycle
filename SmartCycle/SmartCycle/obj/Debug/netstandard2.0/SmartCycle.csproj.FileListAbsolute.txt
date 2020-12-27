@@ -12,3 +12,4 @@ C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\ob
 C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.dll
 C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\ref\SmartCycle.dll
 C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\SmartCycle.pdb
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
