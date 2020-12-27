@@ -490,3 +490,4 @@ C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle.An
 C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\ryand\OneDrive\Documents\SmartCycle\SmartCycle\SmartCycle\SmartCycle.Android\obj\Debug\90\res\drawable\loginicon.png

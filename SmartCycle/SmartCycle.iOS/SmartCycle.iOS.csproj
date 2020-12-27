@@ -133,4 +133,7 @@
       <Name>SmartCycle</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\LoginIcon.png" />
+  </ItemGroup>
 </Project>
